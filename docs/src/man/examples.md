@@ -48,6 +48,7 @@ Packages that have tagged versions available in the general Registry:
 - [Oceananigans.jl](https://clima.github.io/OceananigansDocumentation/stable/))
 - [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl)
 - [OnlineStats.jl](https://joshday.github.io/OnlineStats.jl/stable/)
+- [Pigeons.jl](https://pigeons.run/dev/)
 - [PhotoAcoustic.jl](https://slimgroup.github.io/PhotoAcoustic.jl/stable/)
 - [POMDPs.jl](https://juliapomdp.github.io/POMDPs.jl/stable/)
 - [PhyloNetworks.jl](https://crsl4.github.io/PhyloNetworks.jl/stable/)
